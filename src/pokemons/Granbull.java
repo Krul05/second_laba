@@ -1,4 +1,4 @@
-package pocemons;
+package pokemons;
 
 import Attacks.Scratch;
 import Attacks.Slam;
