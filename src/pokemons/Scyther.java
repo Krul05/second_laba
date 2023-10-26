@@ -1,4 +1,4 @@
-package pocemons;
+package pokemons;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
